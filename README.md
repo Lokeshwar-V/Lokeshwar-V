@@ -84,26 +84,18 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokeshwar-V&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwar-V&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- ============================================================
-     STREAK COUNTER — see the note in SETUP.md step 10.
-     This reads honestly from your commit history.
-     ============================================================ -->
-<img src="https://streak-stats.demolab.com?user=Lokeshwar-V&hide_border=true&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="./metrics/overview.svg" alt="GitHub overview" width="46%" />
+<img src="./metrics/languages.svg" alt="Most used languages" width="46%" />
 
 </div>
 
 ---
 
-## Trophies
+## Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lokeshwar-V&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="./metrics/achievements.svg" alt="GitHub achievements" width="80%" />
 
 </div>
 
@@ -113,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwar-V&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="./metrics/calendar.svg" alt="Contribution calendar" width="80%" />
 
 </div>
 
@@ -137,35 +129,70 @@
 
 <div align="center">
 
-<a href="https://github.com/Lokeshwar-V/custom-login-nextjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokeshwar-V&repo=custom-login-nextjs&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="custom-login-nextjs" />
-</a>
-<a href="https://github.com/Lokeshwar-V/Anime-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokeshwar-V&repo=Anime-website&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Anime-website" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [custom-login-nextjs](https://github.com/Lokeshwar-V/custom-login-nextjs)
+
+Custom authentication flow built from scratch — sign-up, login and session handling.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 <br/>
-<a href="https://github.com/Lokeshwar-V/Blog-EJS-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokeshwar-V&repo=Blog-EJS-Website&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Blog-EJS-Website" />
-</a>
-<a href="https://github.com/Lokeshwar-V/Django-Crud-Operations">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokeshwar-V&repo=Django-Crud-Operations&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Django-Crud-Operations" />
-</a>
+![Stars](https://img.shields.io/github/stars/Lokeshwar-V/custom-login-nextjs?style=flat-square&color=58A6FF)
+![Last commit](https://img.shields.io/github/last-commit/Lokeshwar-V/custom-login-nextjs?style=flat-square&color=58A6FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 📺 [Anime-website](https://github.com/Lokeshwar-V/Anime-website)
+
+Infinite-scroll anime browser pulling live data from a public API.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<br/>
+![Stars](https://img.shields.io/github/stars/Lokeshwar-V/Anime-website?style=flat-square&color=58A6FF)
+![Last commit](https://img.shields.io/github/last-commit/Lokeshwar-V/Anime-website?style=flat-square&color=58A6FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Blog-EJS-Website](https://github.com/Lokeshwar-V/Blog-EJS-Website)
+
+Dynamic server-rendered blog with post creation and routing.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-A91E50?style=flat-square&logo=ejs&logoColor=white)
+<br/>
+![Stars](https://img.shields.io/github/stars/Lokeshwar-V/Blog-EJS-Website?style=flat-square&color=58A6FF)
+![Last commit](https://img.shields.io/github/last-commit/Lokeshwar-V/Blog-EJS-Website?style=flat-square&color=58A6FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗃️ [Django-Crud-Operations](https://github.com/Lokeshwar-V/Django-Crud-Operations)
+
+Full CRUD backend demonstrating Django models, views and templates.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+<br/>
+![Stars](https://img.shields.io/github/stars/Lokeshwar-V/Django-Crud-Operations?style=flat-square&color=58A6FF)
+![Last commit](https://img.shields.io/github/last-commit/Lokeshwar-V/Django-Crud-Operations?style=flat-square&color=58A6FF)
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### What I built, in one line each
-
-<!-- TODO: replace each sentence with the real story. Mine are guesses
-     from your repo names — an interviewer will ask about these. -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[custom-login-nextjs](https://github.com/Lokeshwar-V/custom-login-nextjs)** | Custom authentication flow built from scratch — sign-up, login, session handling | Next.js · TypeScript |
-| **[Anime-website](https://github.com/Lokeshwar-V/Anime-website)** | Infinite-scroll anime browser pulling from a public API | TypeScript · React |
-| **[Blog-EJS-Website](https://github.com/Lokeshwar-V/Blog-EJS-Website)** | Dynamic server-rendered blog with post creation and routing | Node · Express · EJS |
-| **[Django-Crud-Operations](https://github.com/Lokeshwar-V/Django-Crud-Operations)** | Full CRUD backend demonstrating Django models, views and templates | Python · Django |
-
 <div align="center">
+
 <a href="https://github.com/Lokeshwar-V?tab=repositories"><img src="https://img.shields.io/badge/See%20all%2024%20repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/></a>
 </div>
 
